@@ -23,6 +23,8 @@ This project implements an anomaly detection system for data streams using Robus
 
 - `stream_generator.py`: Module for simulating a data stream.
   - Provides the `simulate_data_stream` function to generate a synthetic data stream with anomalies.
+- `rrcf.py`: Module for Robust Random Cut Forest.
+  - Provides the implementation of RRCF for anomaly detection
 
 ## Running the Code
 
